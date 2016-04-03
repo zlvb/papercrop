@@ -1,3 +1,5 @@
+从Google Code导过来的一个项目，以下是原作者提供的Readme
+
 ========================================
 written by myself. (GPL, LGPL dual licensed : GPL licensed when linked to libpoppler.)
 ========================================
